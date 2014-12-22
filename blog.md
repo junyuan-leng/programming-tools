@@ -11,3 +11,17 @@ http://www.ruanyifeng.com/blog/
 http://coolshell.cn
 
 http://xahlee.org
+
+http://blog.youxu.info
+
+http://blog.zhaojie.me
+
+http://mindhacks.cn
+
+http://www.cppblog.com/vczh
+
+http://www.lyric.im
+
+https://www.csslayer.info/wordpress/
+
+https://www.byvoid.com
