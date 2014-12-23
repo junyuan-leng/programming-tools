@@ -17,3 +17,11 @@ ddd: data display debugger
 ####Buiding
 
 cmake: cross-platform makefile generator
+
+####DevOps
+
+logstash: log collection and management
+
+kibana: log and time-stamped data visualization
+
+elasticsearch: search engine framework
