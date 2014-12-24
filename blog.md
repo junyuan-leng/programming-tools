@@ -27,3 +27,5 @@ https://www.csslayer.info/wordpress/
 https://www.byvoid.com
 
 https://blog.phoenixlzx.com
+
+http://frantic1048.com
