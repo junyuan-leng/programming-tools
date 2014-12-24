@@ -25,3 +25,7 @@ logstash: log collection and management
 kibana: log and time-stamped data visualization
 
 elasticsearch: search engine framework
+
+puppet: configuration management system
+
+nagios: system monitoring system
