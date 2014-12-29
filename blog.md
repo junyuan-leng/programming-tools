@@ -29,3 +29,7 @@ https://www.byvoid.com
 https://blog.phoenixlzx.com
 
 http://frantic1048.com
+
+http://simplemind.info/blog/
+
+http://www.wingolog.org
