@@ -29,3 +29,13 @@ https://www.byvoid.com
 https://blog.phoenixlzx.com
 
 http://frantic1048.com
+
+http://ml.memect.com
+
+http://blog.virtao.org
+
+http://blog.codingnow.com
+
+http://dbanotes.net
+
+http://blog.nosqlfan.com
