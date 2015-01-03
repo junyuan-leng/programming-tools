@@ -28,4 +28,38 @@ elasticsearch: search engine framework
 
 puppet: configuration management system
 
+chef: configuration management system
+
+saltstack: configuration management system
+
 nagios: system monitoring system
+
+###Test
+
+jenkins: continuous integration
+
+####Web Test
+
+webdriver
+
+selenium
+
+py.test
+
+####iOS Test
+
+OCUnit
+
+UI Automation
+
+KIF
+
+Appium
+
+####Android Test
+
+Espresso
+
+Robolectric
+
+Appium

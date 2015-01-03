@@ -39,3 +39,9 @@ http://blog.codingnow.com
 http://dbanotes.net
 
 http://blog.nosqlfan.com
+
+http://simplemind.info/blog/
+
+http://www.wingolog.org
+
+http://blog.csdn.net/Solstice
