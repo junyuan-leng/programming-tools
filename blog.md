@@ -45,3 +45,5 @@ http://simplemind.info/blog/
 http://www.wingolog.org
 
 http://blog.csdn.net/Solstice
+
+http://blog.mariotaku.org
