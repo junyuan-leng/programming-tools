@@ -2,6 +2,8 @@
 
 tsocks: socks proxy client for any program
 
+proxychains: http/socks proxy client for terminal
+
 ####Debug
 
 strace: system call tracing tool
