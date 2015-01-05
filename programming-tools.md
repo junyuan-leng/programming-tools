@@ -36,6 +36,10 @@ saltstack: configuration management system
 
 nagios: system monitoring system
 
+fail2ban: ban IPs that show the malicious signs
+
+denyhosts: automatically deny malicious hosts
+
 ###Test
 
 jenkins: continuous integration
