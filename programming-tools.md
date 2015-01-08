@@ -69,3 +69,9 @@ Espresso
 Robolectric
 
 Appium
+
+###Security
+
+dotPeek: free .net decompiler from JetBrains
+
+de4fot: free .net deobfuscator
