@@ -47,3 +47,9 @@ http://www.wingolog.org
 http://blog.csdn.net/Solstice
 
 http://blog.mariotaku.org
+
+http://blog.csdn/net/gzlaiyonghao
+
+http://rednaxelafx.iteye.com
+
+http://blog.csdn.net/v_JULY_v
