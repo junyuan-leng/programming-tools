@@ -75,3 +75,11 @@ Appium
 dotPeek: free .net decompiler from JetBrains
 
 de4fot: free .net deobfuscator
+
+###Documentation
+
+Dash: offline documentation browser for Mac OS X
+
+Zeal: Dash for linux
+
+Velocity: Dash for Windows
