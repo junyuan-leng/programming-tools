@@ -55,3 +55,7 @@ http://rednaxelafx.iteye.com
 http://blog.csdn.net/v_JULY_v
 
 http://zhang.hu
+
+http://www.cnblogs.com/haippy
+
+http://www.laruence.com
