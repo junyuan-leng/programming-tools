@@ -40,6 +40,8 @@ fail2ban: ban IPs that show the malicious signs
 
 denyhosts: automatically deny malicious hosts
 
+trash-cli: command line interface to the freedesktop.org trashcan
+
 ###Test
 
 jenkins: continuous integration
