@@ -16,6 +16,8 @@ gdb: awesome debugger
 
 ddd: data display debugger
 
+gprof: linux performance analysis tool(profiler)
+
 ####Buiding
 
 cmake: cross-platform makefile generator
