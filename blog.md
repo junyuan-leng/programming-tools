@@ -59,3 +59,7 @@ http://zhang.hu
 http://www.cnblogs.com/haippy
 
 http://www.laruence.com
+
+http://www.bestinclass.dk
+
+http://clj-me.cgrand.net
