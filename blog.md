@@ -63,3 +63,5 @@ http://www.laruence.com
 http://www.bestinclass.dk
 
 http://clj-me.cgrand.net
+
+https://ring0.me
