@@ -71,3 +71,5 @@ http://www.rainoftime.com
 http://wenshanren.org
 
 http://xiaq.me
+
+http://www.hi-id.com
