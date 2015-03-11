@@ -73,3 +73,5 @@ http://wenshanren.org
 http://xiaq.me
 
 http://www.hi-id.com
+
+http://thechangelog.com/
