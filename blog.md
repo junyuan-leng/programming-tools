@@ -75,3 +75,5 @@ http://xiaq.me
 http://www.hi-id.com
 
 http://thechangelog.com/
+
+http://kdr2.com
