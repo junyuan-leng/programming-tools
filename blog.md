@@ -77,3 +77,13 @@ http://www.hi-id.com
 http://thechangelog.com/
 
 http://kdr2.com
+
+htto://wizmann.tk
+
+http://www.neutronest.moe/
+
+http://maskray.me/blog/
+
+https://fqj.me/
+
+https://vuryleo.com/
