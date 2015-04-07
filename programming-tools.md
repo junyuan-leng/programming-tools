@@ -92,6 +92,6 @@ Velocity: Dash for Windows
 
 Siege: http load testing and benchmarking utility
 
-Pylog: a free open source tool for testing performance and scalability of web services
+Pylot: a free open source tool for testing performance and scalability of web services
 
 http_load: multiprocessing http test client
