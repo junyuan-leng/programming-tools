@@ -89,3 +89,7 @@ https://fqj.me/
 https://vuryleo.com/
 
 http://farseerfc.me/
+
+http://blog.devep.net/virushuo/
+
+http://www.typeisbeautiful.com/
